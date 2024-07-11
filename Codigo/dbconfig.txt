@@ -1,0 +1,5 @@
+Server=localhost
+Port=5432
+Database=MisConsultas
+User Id=postgres
+Password=helenabts
